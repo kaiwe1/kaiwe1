@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @kaiwe1
-- 👀 I’m interested in JavaScript.
-- 📫 How to reach me: kaiwei.zh@qq.com
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiwe1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
